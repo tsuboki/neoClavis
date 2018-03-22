@@ -1,0 +1,51 @@
+2018/03/22 12:57:55,Log,Starts all ASIN Crawling
+2018/03/22 12:57:55,Log,Starts B&R Crawling
+2018/03/22 12:58:03,Success,B&R : 1/2: 50% Complete
+2018/03/22 12:58:10,Success,B&R : 2/2: 100% Complete
+2018/03/22 12:58:10,Log,Completes B&R Crawling
+2018/03/22 12:58:10,Log,Starts Fem Care Crawling
+2018/03/22 12:58:17,Success,Fem Care : 1/2: 50% Complete
+2018/03/22 12:58:24,Success,Fem Care : 2/2: 100% Complete
+2018/03/22 12:58:24,Log,Completes Fem Care Crawling
+2018/03/22 12:58:24,Log,Starts Oral Care Crawling
+2018/03/22 12:58:31,Success,Oral Care : 1/2: 50% Complete
+2018/03/22 12:58:37,Success,Oral Care : 2/2: 100% Complete
+2018/03/22 12:58:37,Log,Completes Oral Care Crawling
+2018/03/22 12:58:37,Log,Starts Air Care Crawling
+2018/03/22 12:58:44,Success,Air Care : 1/2: 50% Complete
+2018/03/22 12:58:51,Success,Air Care : 2/2: 100% Complete
+2018/03/22 12:58:51,Log,Completes Air Care Crawling
+2018/03/22 12:58:51,Log,Starts Baby Care Crawling
+2018/03/22 12:58:56,Error,Error at 1/2: Retrying
+2018/03/22 12:59:03,Success,Baby Care : 1/2: 50% Complete
+2018/03/22 12:59:11,Success,Baby Care : 2/2: 100% Complete
+2018/03/22 12:59:11,Log,Completes Baby Care Crawling
+2018/03/22 12:59:11,Log,Starts Hair Care Crawling
+2018/03/22 12:59:19,Success,Hair Care : 1/2: 50% Complete
+2018/03/22 12:59:28,Success,Hair Care : 2/2: 100% Complete
+2018/03/22 12:59:28,Log,Completes Hair Care Crawling
+2018/03/22 12:59:28,Log,Starts BMG Crawling
+2018/03/22 12:59:36,Success,BMG : 1/2: 50% Complete
+2018/03/22 12:59:43,Success,BMG : 2/2: 100% Complete
+2018/03/22 12:59:43,Log,Completes BMG Crawling
+2018/03/22 12:59:43,Log,Starts Dish Care Crawling
+2018/03/22 12:59:51,Success,Dish Care : 1/2: 50% Complete
+2018/03/22 12:59:59,Success,Dish Care : 2/2: 100% Complete
+2018/03/22 12:59:59,Log,Completes Dish Care Crawling
+2018/03/22 12:59:59,Log,Starts Detergent Crawling
+2018/03/22 13:00:07,Success,Detergent : 1/2: 50% Complete
+2018/03/22 13:00:15,Success,Detergent : 2/2: 100% Complete
+2018/03/22 13:00:15,Log,Completes Detergent Crawling
+2018/03/22 13:00:15,Log,Starts BFG Crawling
+2018/03/22 13:00:23,Success,BFG : 1/2: 50% Complete
+2018/03/22 13:00:30,Success,BFG : 2/2: 100% Complete
+2018/03/22 13:00:30,Log,Completes BFG Crawling
+2018/03/22 13:00:30,Log,Starts Fabric Enhancer Crawling
+2018/03/22 13:00:37,Success,Fabric Enhancer : 1/2: 50% Complete
+2018/03/22 13:00:44,Success,Fabric Enhancer : 2/2: 100% Complete
+2018/03/22 13:00:44,Log,Completes Fabric Enhancer Crawling
+2018/03/22 13:00:44,Log,Starts Skin Care Crawling
+2018/03/22 13:00:52,Success,Skin Care : 1/2: 50% Complete
+2018/03/22 13:01:00,Success,Skin Care : 2/2: 100% Complete
+2018/03/22 13:01:00,Log,Completes Skin Care Crawling
+2018/03/22 13:01:00,Log,Completes all ASIN Crawling

@@ -1,0 +1,9 @@
+{
+  "test_2.py::test_answer": true,
+  "test_3.py::test_answer": true,
+  "test_web_crawler.py::Test_Web_crawler::()": true,
+  "test_web_crawler.py::Test_Web_crawler::()::test_return_lxmlhtml_by_url_waits_1_sec": true,
+  "test_web_crawler.py::Test_Web_crawler::()::test_test_return_lxmlhtml_by_url_waits_1_sec": true,
+  "test_web_crawler.py::test_return_lxmlhtml_by_url_returns_lxml_html_when_http200": true,
+  "test_web_crawler.py::test_test_return_lxmlhtml_by_url_waits_1_sec": true
+}

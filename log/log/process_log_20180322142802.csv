@@ -1,0 +1,12 @@
+2018/03/22 14:28:02,Log,Starts all ASIN Crawling
+2018/03/22 14:28:02,Log,Starts B&R Crawling
+2018/03/22 14:28:11,Success,B&R : 1/2: 50% Complete
+2018/03/22 14:28:18,Success,B&R : 2/2: 100% Complete
+2018/03/22 14:28:19,Log,Completes B&R Crawling
+2018/03/22 14:28:19,Log,Starts Fem Care Crawling
+2018/03/22 14:28:26,Error,Error at 1/2: Retrying
+2018/03/22 14:28:32,Success,Fem Care : 1/2: 50% Complete
+2018/03/22 14:28:39,Success,Fem Care : 2/2: 100% Complete
+2018/03/22 14:28:39,Log,Completes Fem Care Crawling
+2018/03/22 14:28:39,Log,Starts Oral Care Crawling
+2018/03/22 14:28:46,Success,Oral Care : 1/2: 50% Complete
